@@ -1,4 +1,4 @@
-# Netlfix-Dashboard
+# Decoding Content Trends: A Decade of Netflix (2010-2020)
 The project is to design an overview dashboard for the content releases in the decade from 2010 to 2020 using Power BI. It’s about visualizing and examining the distribution between movies and TV shows for release patterns, genres, ratings, geographical distributions, etc. It’s basically a look back at how Netflix has evolved over the decade and the content strategy of the company. The visualization provides strategic insights into Netflix's content expansion strategy during its critical transformation into a global streaming powerhouse.
 
 ## Dataset 
